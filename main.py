@@ -28,9 +28,13 @@ with tab1:
 
 with tab2:
    st.write("Github link")
+   st.write("[Github Repository] (https://github.com/Rishav-Raj-Sinha/hack2skill)")
+
 
 with tab3:
-   st.write("Dataset")
+   st.write("Kaggle")
+   st.write("[Kaggle link] (https://www.kaggle.com/datasets/luxmikant2254/predictive-crime-analysis/settings)")
+
 
 st.divider()
 # #selection widgets
