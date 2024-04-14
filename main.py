@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import streamlit.components.v1 as components
-from prophet import Prophet
 # Page configs
 st.set_option('deprecation.showPyplotGlobalUse', False)
 st.set_page_config(layout="wide")
